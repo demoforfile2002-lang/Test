@@ -11,5 +11,6 @@ void sub(int a,int b){
 }
 int main(){
 	cout<<"Hello World"<<endl;
+	cout<<"Hello World 2"<<endl;
 	return 0;
 }
