@@ -12,6 +12,7 @@ void sub(int a,int b){
 int main(){
 	cout<<"Hello World"<<endl;
 	cout<<"Hello World 2"<<endl;
-	cout<<"Hello World 3"<<endl;
+	cout<<"Hello World1 3"<<endl;
+	cout<<"Hello World1 3"<<endl;
 	return 0;
 }
